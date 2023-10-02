@@ -5,3 +5,10 @@ body{
 head{
     background-color:black
 }
+.button {
+    background-color: beige;
+    color:blueviolet;
+}
+.button:hover{
+    background-color: black;
+}
