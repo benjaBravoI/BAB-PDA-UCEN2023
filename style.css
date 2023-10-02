@@ -5,6 +5,7 @@ body{
 head{
     background-color:black
 }
+<<<<<<< HEAD
 .button {
     background-color: beige;
     color:blueviolet;
@@ -12,3 +13,5 @@ head{
 .button:hover{
     background-color: black;
 }
+=======
+>>>>>>> branch1
