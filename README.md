@@ -1,3 +1,3 @@
 # BAB-PDA-UCEN2023
 
-# 26/09/23 clase PDA
+# 02/10/23 lab PDA
